@@ -107,6 +107,7 @@
     <Content Include="Scripts\angular.js" />
     <Content Include="Scripts\angular.min.js" />
     <Content Include="Scripts\HtmlPage1.html" />
+    <Content Include="Scripts\Script.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
